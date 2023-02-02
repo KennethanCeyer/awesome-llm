@@ -1,4 +1,5 @@
 <h1 align="center">Awesome LLM</h1>
+<p align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a></p>
 <p align="center">Awesome series for Large-scale Language Model(LLM)s</p>
 
 ## Open models
