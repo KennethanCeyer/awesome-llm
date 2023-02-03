@@ -2,6 +2,8 @@
 <p align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a></p>
 <p align="center">Awesome series for Large-scale Language Model(LLM)s</p>
 
+<p align="center"><img width="880" src="./cover.png" /></p>
+
 ## Open models
 
 - [T5 (11B)](https://huggingface.co/docs/transformers/model_doc/t5)
