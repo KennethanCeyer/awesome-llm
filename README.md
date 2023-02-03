@@ -11,9 +11,13 @@
 - [Bloom (176B)](https://huggingface.co/bigscience/bloom)
 - [BERT-Large (336M)](https://huggingface.co/bert-large-uncased)
 
-## Commercial model
+## Commercial models
 
 ### GPT
 
 - [ChatGPT (175B)](https://openai.com/blog/chatgpt/)
 - [GPT 3.5 (175B, davinci-003)](https://platform.openai.com/docs/models/gpt-3)
+
+## Papers
+
+- [Megatron-Turing NLG (530B)](https://arxiv.org/abs/2201.11990)
