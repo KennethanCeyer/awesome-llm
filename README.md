@@ -45,4 +45,4 @@
 
 ## Projects
 
-- [BigScience](https://bigscience.huggingface.co/)
+- [BigScience](https://bigscience.huggingface.co/) - Maintained by HuggingFace ([Twitter](https://twitter.com/BigScienceLLM)) ([Notion](https://bigscience.notion.site/BLOOM-BigScience-176B-Model-ad073ca07cdf479398d5f95d88e218c4))
