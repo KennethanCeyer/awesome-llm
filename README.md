@@ -10,6 +10,7 @@
    - [Open models](#open-models)
    - [Commercial models](#commercial-models)
       - [GPT](#gpt)
+- [Datasets](#datasets)
 - [Materials](#materials)
    - [Papers](#papers)
    - [Projects](#projects)
@@ -30,6 +31,11 @@
 - [ChatGPT (175B)](https://openai.com/blog/chatgpt/) - Announced by OpenAI / 2022
 - [ChatGPT Plus (175B)](https://openai.com/blog/chatgpt-plus/) - Announced by OpenAI / 2023
 - [GPT 3.5 (175B, davinci-003)](https://platform.openai.com/docs/models/gpt-3) - Announced by OpenAI / 2022
+
+# Datasets
+
+- [Sphere](https://github.com/facebookresearch/Sphere) - Announced by Meta / 2022
+   - `134M` documents split into `906M` passages as the web corpus.
 
 # Materials
 
