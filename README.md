@@ -37,6 +37,8 @@
 
 - [Sphere](https://github.com/facebookresearch/Sphere) - Announced by Meta / 2022
    - `134M` documents split into `906M` passages as the web corpus.
+- [Common Crawl](https://commoncrawl.org/)
+    - `3.15B` pages and over than `380TiB` size dataset, public, free to use.
 
 ## Materials
 
