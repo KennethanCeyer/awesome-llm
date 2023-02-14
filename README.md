@@ -10,6 +10,7 @@
    - [Open models](#open-models)
    - [Commercial models](#commercial-models)
       - [GPT](#gpt)
+      - [Codex](#codex)
 - [Datasets](#datasets)
 - [Materials](#materials)
    - [Papers](#papers)
@@ -32,6 +33,10 @@
 - [ChatGPT (175B)](https://openai.com/blog/chatgpt/) - Announced by OpenAI / 2022
 - [ChatGPT Plus (175B)](https://openai.com/blog/chatgpt-plus/) - Announced by OpenAI / 2023
 - [GPT 3.5 (175B, text-davinci-003)](https://platform.openai.com/docs/models/gpt-3) - Announced by OpenAI / 2022
+
+#### Codex
+
+- [Codex (11B)](https://openai.com/blog/openai-codex/) - Announced by OpenAI / 2021
 
 ## Datasets
 
