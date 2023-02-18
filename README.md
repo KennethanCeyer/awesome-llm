@@ -50,6 +50,7 @@
 ### Papers
 
 - [Megatron-Turing NLG (530B)](https://arxiv.org/abs/2201.11990) - Announced by NVIDIA and Microsoft / 2021
+- [LaMDA (137B)](https://arxiv.org/abs/2201.08239) - Announced by Google / 2021
 
 ### Projects
 
