@@ -28,6 +28,7 @@
 - [UL2 (20B)](https://ai.googleblog.com/2022/10/ul2-20b-open-source-unified-language.html) - Announced by Google / 2022
 - [Bloom (176B)](https://huggingface.co/bigscience/bloom) - Announced by BigScience (HuggingFace) / 2022
 - [BERT-Large (336M)](https://huggingface.co/bert-large-uncased) - Announced by Google / 2018
+- [GPT-J (6B)](https://huggingface.co/EleutherAI/gpt-j-6B) - Announced by EleutherAI / 2021
 
 ### Commercial models
 
