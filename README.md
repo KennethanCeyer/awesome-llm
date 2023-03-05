@@ -15,6 +15,7 @@
 - [Datasets](#datasets)
 - [Materials](#materials)
    - [Papers](#papers)
+   - [Posts](#posts)
    - [Projects](#projects)
 
 ## Models
@@ -64,6 +65,10 @@
 - [NLLB (54.5B)](https://arxiv.org/abs/2207.04672) - Announced by Meta / 2022
 - [LLaMA (65B)](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/) - Announced by Meta / 2023
 - [Gopher (280B)](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Announced by DeepMind / 2021
+
+### Posts
+
+- [Luminous (13B)](https://www.aleph-alpha.com/luminous-explore-a-model-for-world-class-semantic-representation) - Announced by Aleph Alpha / 2021
 
 ### Projects
 
