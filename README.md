@@ -54,6 +54,8 @@
    - `134M` documents split into `906M` passages as the web corpus.
 - [Common Crawl](https://commoncrawl.org/)
     - `3.15B` pages and over than `380TiB` size dataset, public, free to use.
+- [SQuAD 2.0](https://rajpurkar.github.io/SQuAD-explorer/)
+    - 100,000+ question dataset for QA.
 
 ## Materials
 
