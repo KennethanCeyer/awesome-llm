@@ -55,7 +55,9 @@
 - [Common Crawl](https://commoncrawl.org/)
     - `3.15B` pages and over than `380TiB` size dataset, public, free to use.
 - [SQuAD 2.0](https://rajpurkar.github.io/SQuAD-explorer/)
-    - 100,000+ question dataset for QA.
+    - `100,000+` question dataset for QA.
+- [Pile](https://pile.eleuther.ai/)
+    - `825 GiB diverse`, open source language modelling data set.
 
 ## Materials
 
