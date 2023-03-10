@@ -58,6 +58,8 @@
     - `100,000+` question dataset for QA.
 - [Pile](https://pile.eleuther.ai/)
     - `825 GiB diverse`, open source language modelling data set.
+- [RACE](https://www.cs.cmu.edu/~glai1/data/race/)
+    - A large-scale reading comprehension dataset with more than `28,000` passages and nearly `100,000` questions. 
 
 ## Materials
 
