@@ -13,6 +13,7 @@
       - [Bard](#bard)
       - [Codex](#codex)
 - [Datasets](#datasets)
+- [Benchmarks](#benchmarks)
 - [Materials](#materials)
    - [Papers](#papers)
    - [Posts](#posts)
@@ -61,6 +62,10 @@
     - `825 GiB diverse`, open source language modelling data set.
 - [RACE](https://www.cs.cmu.edu/~glai1/data/race/)
     - A large-scale reading comprehension dataset with more than `28,000` passages and nearly `100,000` questions. 
+
+## Benchmarks
+
+- [BIG-bench](https://github.com/google/BIG-bench)
 
 ## Materials
 
