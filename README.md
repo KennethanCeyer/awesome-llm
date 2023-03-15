@@ -38,7 +38,7 @@
 
 #### GPT
 
-- [GPT 4 (Parameter size unannounced, gpt-4-32k)]- Announced by OpenAI / 2023
+- [GPT 4 (Parameter size unannounced, gpt-4-32k)](https://openai.com/product/gpt-4) - Announced by OpenAI / 2023
 - [ChatGPT (175B)](https://openai.com/blog/chatgpt/) - Announced by OpenAI / 2022
 - [ChatGPT Plus (175B)](https://openai.com/blog/chatgpt-plus/) - Announced by OpenAI / 2023
 - [GPT 3.5 (175B, text-davinci-003)](https://platform.openai.com/docs/models/gpt-3) - Announced by OpenAI / 2022
