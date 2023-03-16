@@ -33,6 +33,7 @@
 - [GPT-NeoX 2.0 (20B)](https://github.com/EleutherAI/gpt-neox) - Announced by EleutherAI / 2023
 - [GPT-J (6B)](https://huggingface.co/EleutherAI/gpt-j-6B) - Announced by EleutherAI / 2021
 - [Macaw (11B)](https://macaw.apps.allenai.org/) - Announced by AI2 / 2021
+- [Stanford Alpaca (7B)](https://crfm.stanford.edu/2023/03/13/alpaca.html) - Announced by Stanford University / 2023
 
 ### Commercial models
 
