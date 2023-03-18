@@ -8,6 +8,7 @@
 
 - [Models](#models)
    - [Open models](#open-models)
+   - [Projects](#projects)
    - [Commercial models](#commercial-models)
       - [GPT](#gpt)
       - [Bard](#bard)
@@ -34,6 +35,10 @@
 - [GPT-J (6B)](https://huggingface.co/EleutherAI/gpt-j-6B) - Announced by EleutherAI / 2021
 - [Macaw (11B)](https://macaw.apps.allenai.org/) - Announced by AI2 / 2021
 - [Stanford Alpaca (7B)](https://crfm.stanford.edu/2023/03/13/alpaca.html) - Announced by Stanford University / 2023
+
+### Projects
+
+- [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) - Announced by Microsoft / 2023
 
 ### Commercial models
 
