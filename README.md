@@ -52,7 +52,7 @@
 
 #### Bard
 
-- [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/) - Announced by Google / 2023
+- [Bard](https://bard.google.com/) - Announced by Google / 2023
 
 #### Codex
 
