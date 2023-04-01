@@ -7,6 +7,7 @@
 ## Contents
 
 - [Models](#models)
+   - [Overview](#overview)
    - [Open models](#open-models)
    - [Projects](#projects)
    - [Commercial models](#commercial-models)
@@ -21,6 +22,36 @@
    - [Projects](#projects)
 
 ## Models
+
+### Overview
+
+| Name                       | Parameter size    | Announcement date |
+|----------------------------|-------------------|-------------------|
+| BERT-Large (336M)          | 336 million       | 2018              |
+| T5 (11B)                   | 11 billion        | 2020              |
+| Gopher (280B)              | 280 billion       | 2021              |
+| GPT-J (6B)                 | 6 billion         | 2021              |
+| LaMDA (137B)               | 137 billion       | 2021              |
+| Megatron-Turing NLG (530B) | 530 billion       | 2021              |
+| T0 (11B)                   | 11 billion        | 2021              |
+| Macaw (11B)                | 11 billion        | 2021              |
+| T5 FLAN (540B)             | 540 billion       | 2022              |
+| OPT-175B (175B)            | 175 billion       | 2022              |
+| ChatGPT (175B)             | 175 billion       | 2022              |
+| GPT 3.5 (175B)             | 175 billion       | 2022              |
+| AlexaTM (20B)              | 20 billion        | 2022              |
+| Bloom (176B)               | 176 billion       | 2022              |
+| Bard                       | Not yet announced | 2023              |
+| GPT 4                      | Not yet announced | 2023              |
+| Chinchilla (70B)           | 70 billion        | 2022              |
+| Sparrow (70B)              | 70 billion        | 2022              |
+| PaLM (540B)                | 540 billion       | 2022              |
+| NLLB (54.5B)               | 54.5 billion      | 2022              |
+| UL2 (20B)                  | 20 billion        | 2022              |
+| LLaMA (65B)                | 65 billion        | 2023              |
+| Stanford Alpaca (7B)       | 7 billion         | 2023              |
+| GPT-NeoX 2.0 (20B)         | 20 billion        | 2023              |
+| ChatGPT Plus (175B)        | 175 billion       | 2023              |
 
 ### Open models
 
