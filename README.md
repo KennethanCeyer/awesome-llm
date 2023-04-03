@@ -43,6 +43,7 @@
 | Bloom (176B)               | 176 billion       | 2022              |
 | Bard                       | Not yet announced | 2023              |
 | GPT 4                      | Not yet announced | 2023              |
+| AlphaCode (41.4B)          | 41.4 billion      | 2022              |
 | Chinchilla (70B)           | 70 billion        | 2022              |
 | Sparrow (70B)              | 70 billion        | 2022              |
 | PaLM (540B)                | 540 billion       | 2022              |
@@ -113,6 +114,7 @@
 - [Megatron-Turing NLG (530B)](https://arxiv.org/abs/2201.11990) - Announced by NVIDIA and Microsoft / 2021
 - [LaMDA (137B)](https://arxiv.org/abs/2201.08239) - Announced by Google / 2021
 - [PaLM (540B)](https://arxiv.org/abs/2204.02311) - Announced by Google / 2022
+- [AlphaCode (41.4B)](https://www.deepmind.com/blog/competitive-programming-with-alphacode) - Announced by DeepMind / 2022
 - [Chinchilla (70B)](https://arxiv.org/abs/2203.15556) - Announced by DeepMind / 2022
 - [Sparrow (70B)](https://www.deepmind.com/blog/building-safer-dialogue-agents) - Announced by DeepMind / 2022
 - [NLLB (54.5B)](https://arxiv.org/abs/2207.04672) - Announced by Meta / 2022
