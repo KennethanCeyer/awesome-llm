@@ -35,6 +35,7 @@
 | Megatron-Turing NLG (530B) | 530 billion       | 2021              |
 | T0 (11B)                   | 11 billion        | 2021              |
 | Macaw (11B)                | 11 billion        | 2021              |
+| GLaM (1.2T)                | 1.2 trillion      | 2021              |
 | T5 FLAN (540B)             | 540 billion       | 2022              |
 | OPT-175B (175B)            | 175 billion       | 2022              |
 | ChatGPT (175B)             | 175 billion       | 2022              |
@@ -113,6 +114,7 @@
 
 - [Megatron-Turing NLG (530B)](https://arxiv.org/abs/2201.11990) - Announced by NVIDIA and Microsoft / 2021
 - [LaMDA (137B)](https://arxiv.org/abs/2201.08239) - Announced by Google / 2021
+- [GLaM (1.2T)](https://arxiv.org/pdf/2112.06905.pdf) - Announced by Google / 2021
 - [PaLM (540B)](https://arxiv.org/abs/2204.02311) - Announced by Google / 2022
 - [AlphaCode (41.4B)](https://www.deepmind.com/blog/competitive-programming-with-alphacode) - Announced by DeepMind / 2022
 - [Chinchilla (70B)](https://arxiv.org/abs/2203.15556) - Announced by DeepMind / 2022
