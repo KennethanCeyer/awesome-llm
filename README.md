@@ -54,6 +54,7 @@
 | Stanford Alpaca (7B)       | 7 billion         | 2023              |
 | GPT-NeoX 2.0 (20B)         | 20 billion        | 2023              |
 | BloombergGPT               | 50 billion        | 2023              |
+| Dolly                      | 6 billion         | 2023              |
 
 ### Open models
 
@@ -131,6 +132,7 @@
 - [Claude (52B)](https://www.anthropic.com/index/introducing-claude) - Announced by Anthropic / 2021
 - [Minerva (Parameter size unannounced)](https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html) - Announced by Google / 2022
 - [BloombergGPT (50B)](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/) - Announced by Bloomberg / 2023
+- [Dolly (6B)](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html) - Announced by Databricks / 2023
 
 ### Projects
 
