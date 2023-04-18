@@ -1,4 +1,4 @@
-<h1 align="center">Awesome LLM</h1>
+<h1 id="top" align="center">Awesome LLM</h1>
 <p align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a></p>
 <p align="center">Awesome series for Large Language Model(LLM)s</p>
 
@@ -20,6 +20,7 @@
    - [Papers](#papers)
    - [Posts](#posts)
    - [Projects](#projects)
+- [Contributing](#contributing)
 
 ## Models
 
@@ -56,6 +57,8 @@
 | BloombergGPT               | 50 billion        | 2023              |
 | Dolly                      | 6 billion         | 2023              |
 
+[:arrow_up: Go to top](#top)
+
 ### Open models
 
 - [T5 (11B)](https://huggingface.co/docs/transformers/model_doc/t5) - Announced by Google / 2020
@@ -70,10 +73,14 @@
 - [Macaw (11B)](https://macaw.apps.allenai.org/) - Announced by AI2 / 2021
 - [Stanford Alpaca (7B)](https://crfm.stanford.edu/2023/03/13/alpaca.html) - Announced by Stanford University / 2023
 
+[:arrow_up: Go to top](#top)
+
 ### Projects
 
 - [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) - Announced by Microsoft / 2023
 - [LMOps](https://github.com/microsoft/lmops) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities.
+
+[:arrow_up: Go to top](#top)
 
 ### Commercial models
 
@@ -84,13 +91,19 @@
 - [ChatGPT Plus (175B)](https://openai.com/blog/chatgpt-plus/) - Announced by OpenAI / 2023
 - [GPT 3.5 (175B, text-davinci-003)](https://platform.openai.com/docs/models/gpt-3) - Announced by OpenAI / 2022
 
+[:arrow_up: Go to top](#top)
+
 #### Bard
 
 - [Bard](https://bard.google.com/) - Announced by Google / 2023
 
+[:arrow_up: Go to top](#top)
+
 #### Codex
 
 - [Codex (11B)](https://openai.com/blog/openai-codex/) - Announced by OpenAI / 2021
+
+[:arrow_up: Go to top](#top)
 
 ## Datasets
 
@@ -103,11 +116,15 @@
 - [Pile](https://pile.eleuther.ai/)
     - `825 GiB diverse`, open source language modelling data set.
 - [RACE](https://www.cs.cmu.edu/~glai1/data/race/)
-    - A large-scale reading comprehension dataset with more than `28,000` passages and nearly `100,000` questions. 
+    - A large-scale reading comprehension dataset with more than `28,000` passages and nearly `100,000` questions.
+
+[:arrow_up: Go to top](#top)
 
 ## Benchmarks
 
 - [BIG-bench](https://github.com/google/BIG-bench)
+
+[:arrow_up: Go to top](#top)
 
 ## Materials
 
@@ -134,6 +151,30 @@
 - [BloombergGPT (50B)](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/) - Announced by Bloomberg / 2023
 - [Dolly (6B)](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html) - Announced by Databricks / 2023
 
+[:arrow_up: Go to top](#top)
+
 ### Projects
 
 - [BigScience](https://bigscience.huggingface.co/) - Maintained by HuggingFace ([Twitter](https://twitter.com/BigScienceLLM)) ([Notion](https://bigscience.notion.site/BLOOM-BigScience-176B-Model-ad073ca07cdf479398d5f95d88e218c4))
+
+[:arrow_up: Go to top](#top)
+
+## Contributing
+
+We welcome contributions to the Awesome LLMOps list! If you'd like to suggest an addition or make a correction, please follow these guidelines:
+
+1. Fork the repository and create a new branch for your contribution.
+2. Make your changes to the README.md file.
+3. Ensure that your contribution is relevant to the topic of LLM.
+4. Use the following format to add your contribution:
+  ```markdown
+  [Name of Resource](Link to Resource) - Description of resource
+  ```
+5. Add your contribution in alphabetical order within its category.
+6. Make sure that your contribution is not already listed.
+7. Provide a brief description of the resource and explain why it is relevant to LLM.
+8. Create a pull request with a clear title and description of your changes.
+
+We appreciate your contributions and thank you for helping to make the Awesome LLM list even more awesome!
+
+[:arrow_up: Go to top](#top)
