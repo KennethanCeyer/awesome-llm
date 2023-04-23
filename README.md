@@ -52,11 +52,13 @@
 | PaLM (540B)                | 540 billion       | 2022              |
 | NLLB (54.5B)               | 54.5 billion      | 2022              |
 | UL2 (20B)                  | 20 billion        | 2022              |
+| Jurassic-1 (178B)          | 178 billion       | 2022              |
 | LLaMA (65B)                | 65 billion        | 2023              |
 | Stanford Alpaca (7B)       | 7 billion         | 2023              |
 | GPT-NeoX 2.0 (20B)         | 20 billion        | 2023              |
 | BloombergGPT               | 50 billion        | 2023              |
 | Dolly                      | 6 billion         | 2023              |
+| Jurassic-2                 | Not yet announced | 2023              |
 
 [:arrow_up: Go to top](#top)
 
@@ -151,6 +153,8 @@
 - [Minerva (Parameter size unannounced)](https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html) - Announced by Google / 2022
 - [BloombergGPT (50B)](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/) - Announced by Bloomberg / 2023
 - [Dolly (6B)](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html) - Announced by Databricks / 2023
+- [Jurassic-1](https://www.ai21.com/blog/announcing-ai21-studio-and-jurassic-1) - Announced by AI21 / 2022
+- [Jurassic-2](https://www.ai21.com/blog/introducing-j2) - Announced by AI21 / 2023
 
 [:arrow_up: Go to top](#top)
 
