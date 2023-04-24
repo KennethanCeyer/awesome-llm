@@ -51,6 +51,7 @@
 | Sparrow (70B)              | 70 billion        | 2022              |
 | PaLM (540B)                | 540 billion       | 2022              |
 | NLLB (54.5B)               | 54.5 billion      | 2022              |
+| Galactica (120B)           | 120 billion       | 2022              |
 | UL2 (20B)                  | 20 billion        | 2022              |
 | Jurassic-1 (178B)          | 178 billion       | 2022              |
 | LLaMA (65B)                | 65 billion        | 2023              |
@@ -144,6 +145,7 @@
 - [LLaMA (65B)](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/) - Announced by Meta / 2023
 - [AlexaTM (20B)](https://arxiv.org/abs/2208.01448) - Announced by Amazon / 2022
 - [Gopher (280B)](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Announced by DeepMind / 2021
+- [Galactica (120B))(https://arxiv.org/abs/2211.09085) - Announced by Meta / 2022
 
 ### Posts
 
