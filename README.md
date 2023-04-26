@@ -114,13 +114,15 @@
 - [Sphere](https://github.com/facebookresearch/Sphere) - Announced by Meta / 2022
    - `134M` documents split into `906M` passages as the web corpus.
 - [Common Crawl](https://commoncrawl.org/)
-    - `3.15B` pages and over than `380TiB` size dataset, public, free to use.
+   - `3.15B` pages and over than `380TiB` size dataset, public, free to use.
 - [SQuAD 2.0](https://rajpurkar.github.io/SQuAD-explorer/)
-    - `100,000+` question dataset for QA.
+   - `100,000+` question dataset for QA.
 - [Pile](https://pile.eleuther.ai/)
-    - `825 GiB diverse`, open source language modelling data set.
+   - `825 GiB diverse`, open source language modelling data set.
 - [RACE](https://www.cs.cmu.edu/~glai1/data/race/)
-    - A large-scale reading comprehension dataset with more than `28,000` passages and nearly `100,000` questions.
+   - A large-scale reading comprehension dataset with more than `28,000` passages and nearly `100,000` questions.
+- [Wikipedia](https://huggingface.co/datasets/wikipedia)
+   - Wikipedia dataset containing cleaned articles of all languages.
 
 [:arrow_up: Go to top](#top)
 
