@@ -11,6 +11,7 @@
    - [Open models](#open-models)
    - [Projects](#projects)
    - [GitHub repositories](#github-repositories)
+   - [HuggingFace repositories](#huggingface-repositories)
    - [Commercial models](#commercial-models)
       - [GPT](#gpt)
       - [Bard](#bard)
@@ -60,6 +61,7 @@
 | BloombergGPT               | 50 billion        | 2023              |
 | Dolly                      | 6 billion         | 2023              |
 | Jurassic-2                 | Not yet announced | 2023              |
+| OpenAssistant LLaMa        | 30 billion        | 2023              | 
 
 [:arrow_up: Go to top](#top)
 
@@ -165,6 +167,7 @@
 ### Projects
 
 - [BigScience](https://bigscience.huggingface.co/) - Maintained by HuggingFace ([Twitter](https://twitter.com/BigScienceLLM)) ([Notion](https://bigscience.notion.site/BLOOM-BigScience-176B-Model-ad073ca07cdf479398d5f95d88e218c4))
+- [HuggingChat](https://www.producthunt.com/posts/hugging-chat) - Maintained by HuggingFace / 2023
 
 ### GitHub repositories
 
@@ -176,6 +179,12 @@
 - [llama_index](https://github.com/jerryjliu/llama_index) - ![Repo stars of jerryjliu/llama_index](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social) - A project that provides a central interface to connect your LLM's with external data.
 - [openai/evals](https://github.com/openai/evals) - ![Repo stars of openai/evals](https://img.shields.io/github/stars/openai/evals?style=social) - A curated list of reinforcement learning with human feedback resources.
 - [trlx](https://github.com/CarperAI/trlx) - ![Repo stars of promptslab/Promptify](https://img.shields.io/github/stars/CarperAI/trlx?style=social) - A repo for distributed training of language models with Reinforcement Learning via Human Feedback. (RLHF)
+
+[:arrow_up: Go to top](#top)
+
+## HuggingFace repositories
+
+- [OpenAssistant SFT 6](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor) - 30 billion LLaMa-based model made by HuggingFace for the chatting conversation.
 
 [:arrow_up: Go to top](#top)
 
