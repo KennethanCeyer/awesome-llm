@@ -61,7 +61,8 @@
 | BloombergGPT               | 50 billion        | 2023              |
 | Dolly                      | 6 billion         | 2023              |
 | Jurassic-2                 | Not yet announced | 2023              |
-| OpenAssistant LLaMa        | 30 billion        | 2023              | 
+| OpenAssistant LLaMa        | 30 billion        | 2023              |
+| Vicuna                     | 13 billion        | 2023              |
 
 [:arrow_up: Go to top](#top)
 
@@ -185,6 +186,7 @@
 ## HuggingFace repositories
 
 - [OpenAssistant SFT 6](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor) - 30 billion LLaMa-based model made by HuggingFace for the chatting conversation.
+- [Vicuna Delta v0](https://huggingface.co/lmsys/vicuna-13b-delta-v0) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT.
 
 [:arrow_up: Go to top](#top)
 
