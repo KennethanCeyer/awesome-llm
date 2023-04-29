@@ -62,6 +62,7 @@
 | Dolly                      | 6 billion         | 2023              |
 | Jurassic-2                 | Not yet announced | 2023              |
 | OpenAssistant LLaMa        | 30 billion        | 2023              |
+| Koala                      | 13 billion        | 2023              |
 | Vicuna                     | 13 billion        | 2023              |
 
 [:arrow_up: Go to top](#top)
@@ -162,6 +163,7 @@
 - [Dolly (6B)](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html) - Announced by Databricks / 2023
 - [Jurassic-1](https://www.ai21.com/blog/announcing-ai21-studio-and-jurassic-1) - Announced by AI21 / 2022
 - [Jurassic-2](https://www.ai21.com/blog/introducing-j2) - Announced by AI21 / 2023
+- [Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/) - Announced by Berkeley Artificial Intelligence Research(BAIR) / 2023
 
 [:arrow_up: Go to top](#top)
 
