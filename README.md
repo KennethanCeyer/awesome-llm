@@ -172,6 +172,7 @@
 
 - [BigScience](https://bigscience.huggingface.co/) - Maintained by HuggingFace ([Twitter](https://twitter.com/BigScienceLLM)) ([Notion](https://bigscience.notion.site/BLOOM-BigScience-176B-Model-ad073ca07cdf479398d5f95d88e218c4))
 - [HuggingChat](https://www.producthunt.com/posts/hugging-chat) - Maintained by HuggingFace / 2023
+- [OpenAssistant](https://open-assistant.io/) - Maintained by Open Assistant / 2023
 
 
 ### GitHub repositories
