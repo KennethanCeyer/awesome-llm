@@ -29,42 +29,43 @@
 
 ### Overview
 
-| Name                       | Parameter size    | Announcement date |
-|----------------------------|-------------------|-------------------|
-| BERT-Large (336M)          | 336 million       | 2018              |
-| T5 (11B)                   | 11 billion        | 2020              |
-| Gopher (280B)              | 280 billion       | 2021              |
-| GPT-J (6B)                 | 6 billion         | 2021              |
-| LaMDA (137B)               | 137 billion       | 2021              |
-| Megatron-Turing NLG (530B) | 530 billion       | 2021              |
-| T0 (11B)                   | 11 billion        | 2021              |
-| Macaw (11B)                | 11 billion        | 2021              |
-| GLaM (1.2T)                | 1.2 trillion      | 2021              |
-| T5 FLAN (540B)             | 540 billion       | 2022              |
-| OPT-175B (175B)            | 175 billion       | 2022              |
-| ChatGPT (175B)             | 175 billion       | 2022              |
-| GPT 3.5 (175B)             | 175 billion       | 2022              |
-| AlexaTM (20B)              | 20 billion        | 2022              |
-| Bloom (176B)               | 176 billion       | 2022              |
-| Bard                       | Not yet announced | 2023              |
-| GPT 4                      | Not yet announced | 2023              |
-| AlphaCode (41.4B)          | 41.4 billion      | 2022              |
-| Chinchilla (70B)           | 70 billion        | 2022              |
-| Sparrow (70B)              | 70 billion        | 2022              |
-| PaLM (540B)                | 540 billion       | 2022              |
-| NLLB (54.5B)               | 54.5 billion      | 2022              |
-| Galactica (120B)           | 120 billion       | 2022              |
-| UL2 (20B)                  | 20 billion        | 2022              |
-| Jurassic-1 (178B)          | 178 billion       | 2022              |
-| LLaMA (65B)                | 65 billion        | 2023              |
-| Stanford Alpaca (7B)       | 7 billion         | 2023              |
-| GPT-NeoX 2.0 (20B)         | 20 billion        | 2023              |
-| BloombergGPT               | 50 billion        | 2023              |
-| Dolly                      | 6 billion         | 2023              |
-| Jurassic-2                 | Not yet announced | 2023              |
-| OpenAssistant LLaMa        | 30 billion        | 2023              |
-| Koala                      | 13 billion        | 2023              |
-| Vicuna                     | 13 billion        | 2023              |
+| Name                       | Parameter size                        | Announcement date |
+|----------------------------|---------------------------------------|-------------------|
+| BERT-Large (336M)          | 336 million                           | 2018              |
+| T5 (11B)                   | 11 billion                            | 2020              |
+| Gopher (280B)              | 280 billion                           | 2021              |
+| GPT-J (6B)                 | 6 billion                             | 2021              |
+| LaMDA (137B)               | 137 billion                           | 2021              |
+| Megatron-Turing NLG (530B) | 530 billion                           | 2021              |
+| T0 (11B)                   | 11 billion                            | 2021              |
+| Macaw (11B)                | 11 billion                            | 2021              |
+| GLaM (1.2T)                | 1.2 trillion                          | 2021              |
+| T5 FLAN (540B)             | 540 billion                           | 2022              |
+| OPT-175B (175B)            | 175 billion                           | 2022              |
+| ChatGPT (175B)             | 175 billion                           | 2022              |
+| GPT 3.5 (175B)             | 175 billion                           | 2022              |
+| AlexaTM (20B)              | 20 billion                            | 2022              |
+| Bloom (176B)               | 176 billion                           | 2022              |
+| Bard                       | Not yet announced                     | 2023              |
+| GPT 4                      | Not yet announced                     | 2023              |
+| AlphaCode (41.4B)          | 41.4 billion                          | 2022              |
+| Chinchilla (70B)           | 70 billion                            | 2022              |
+| Sparrow (70B)              | 70 billion                            | 2022              |
+| PaLM (540B)                | 540 billion                           | 2022              |
+| NLLB (54.5B)               | 54.5 billion                          | 2022              |
+| Galactica (120B)           | 120 billion                           | 2022              |
+| UL2 (20B)                  | 20 billion                            | 2022              |
+| Jurassic-1 (178B)          | 178 billion                           | 2022              |
+| LLaMA (65B)                | 65 billion                            | 2023              |
+| Stanford Alpaca (7B)       | 7 billion                             | 2023              |
+| GPT-NeoX 2.0 (20B)         | 20 billion                            | 2023              |
+| BloombergGPT               | 50 billion                            | 2023              |
+| Dolly                      | 6 billion                             | 2023              |
+| Jurassic-2                 | Not yet announced                     | 2023              |
+| OpenAssistant LLaMa        | 30 billion                            | 2023              |
+| Koala                      | 13 billion                            | 2023              |
+| Vicuna                     | 13 billion                            | 2023              |
+| PaLM2                      | Not yet announced, Smaller than PaLM1 | 2023              |
 
 [:arrow_up: Go to top](#top)
 
@@ -153,6 +154,7 @@
 - [AlexaTM (20B)](https://arxiv.org/abs/2208.01448) - Announced by Amazon / 2022
 - [Gopher (280B)](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Announced by DeepMind / 2021
 - [Galactica (120B)](https://arxiv.org/abs/2211.09085) - Announced by Meta / 2022
+- [PaLM2 Tech Report](https://ai.google/static/documents/palm2techreport.pdf) - Announced by Google / 2023
 
 ### Posts
 
@@ -199,6 +201,7 @@
 ### Reading materials
 
 - [StackLLaMA: A hands-on guide to train LLaMA with RLHF](https://huggingface.co/blog/stackllama)
+- [PaLM2](https://ai.google/discover/palm2)
 
 [:arrow_up: Go to top](#top)
 
