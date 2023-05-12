@@ -53,6 +53,7 @@
 | Sparrow (70B)              | 70 billion                            | 2022              |
 | PaLM (540B)                | 540 billion                           | 2022              |
 | NLLB (54.5B)               | 54.5 billion                          | 2022              |
+| Alexa TM (20B)             | 20 billion                            | 2022              |
 | Galactica (120B)           | 120 billion                           | 2022              |
 | UL2 (20B)                  | 20 billion                            | 2022              |
 | Jurassic-1 (178B)          | 178 billion                           | 2022              |
@@ -163,6 +164,7 @@
 - [Claude (52B)](https://www.anthropic.com/index/introducing-claude) - Announced by Anthropic / 2021
 - [Minerva (Parameter size unannounced)](https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html) - Announced by Google / 2022
 - [BloombergGPT (50B)](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/) - Announced by Bloomberg / 2023
+- [AlexaTM (20B](https://www.amazon.science/publications/alexatm-20b-few-shot-learning-using-a-large-scale-multilingual-seq2seq-model) - Announced by Amazon / 2023
 - [Dolly (6B)](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html) - Announced by Databricks / 2023
 - [Jurassic-1](https://www.ai21.com/blog/announcing-ai21-studio-and-jurassic-1) - Announced by AI21 / 2022
 - [Jurassic-2](https://www.ai21.com/blog/introducing-j2) - Announced by AI21 / 2023
