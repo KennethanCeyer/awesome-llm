@@ -178,6 +178,7 @@
 - [HuggingChat](https://www.producthunt.com/posts/hugging-chat) - Maintained by HuggingFace / 2023
 - [OpenAssistant](https://open-assistant.io/) - Maintained by Open Assistant / 2023
 - [StableLM](https://github.com/Stability-AI/StableLM) - Maintained by Stability AI / 2023
+- [Eleuther AI Language Model](https://www.eleuther.ai/language-modeling)- Maintained by Eleuther AI / 2033
 
 ### GitHub repositories
 
