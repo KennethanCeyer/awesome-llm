@@ -67,6 +67,7 @@
 | Koala                      | 13 billion                            | 2023              |
 | Vicuna                     | 13 billion                            | 2023              |
 | PaLM2                      | Not yet announced, Smaller than PaLM1 | 2023              |
+| LIMA                       | 65 billion                            | 2023              |
 
 [:arrow_up: Go to top](#top)
 
@@ -156,6 +157,7 @@
 - [Gopher (280B)](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Announced by DeepMind / 2021
 - [Galactica (120B)](https://arxiv.org/abs/2211.09085) - Announced by Meta / 2022
 - [PaLM2 Tech Report](https://ai.google/static/documents/palm2techreport.pdf) - Announced by Google / 2023
+- [LIMA](https://arxiv.org/abs/2305.11206) - Announced by Meta / 2023
 
 ### Posts
 
