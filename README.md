@@ -68,6 +68,7 @@
 | Vicuna                     | 13 billion                            | 2023              |
 | PaLM2                      | Not yet announced, Smaller than PaLM1 | 2023              |
 | LIMA                       | 65 billion                            | 2023              |
+| MPT                        | 7 billion                             | 2023              |
 
 [:arrow_up: Go to top](#top)
 
@@ -200,6 +201,7 @@
 
 - [OpenAssistant SFT 6](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor) - 30 billion LLaMa-based model made by HuggingFace for the chatting conversation.
 - [Vicuna Delta v0](https://huggingface.co/lmsys/vicuna-13b-delta-v0) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT.
+- [MPT 7B](https://huggingface.co/mosaicml/mpt-7b) - A decoder-style transformer pretrained from scratch on 1T tokens of English text and code. This model was trained by MosaicML.
 
 [:arrow_up: Go to top](#top)
 
