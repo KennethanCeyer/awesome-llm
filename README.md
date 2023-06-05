@@ -210,6 +210,7 @@
 
 - [StackLLaMA: A hands-on guide to train LLaMA with RLHF](https://huggingface.co/blog/stackllama)
 - [PaLM2](https://ai.google/discover/palm2)
+- [PaLM2 and Future work: Gemini model](https://blog.google/technology/ai/google-palm-2-ai-large-language-model/)
 
 [:arrow_up: Go to top](#top)
 
