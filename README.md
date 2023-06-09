@@ -203,6 +203,7 @@
 - [OpenAssistant SFT 6](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor) - 30 billion LLaMa-based model made by HuggingFace for the chatting conversation.
 - [Vicuna Delta v0](https://huggingface.co/lmsys/vicuna-13b-delta-v0) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT.
 - [MPT 7B](https://huggingface.co/mosaicml/mpt-7b) - A decoder-style transformer pretrained from scratch on 1T tokens of English text and code. This model was trained by MosaicML.
+- [Falcon 7B](https://huggingface.co/tiiuae/falcon-7b) - A 7B parameters causal decoder-only model built by TII and trained on 1,500B tokens of RefinedWeb enhanced with curated corpora.
 
 [:arrow_up: Go to top](#top)
 
