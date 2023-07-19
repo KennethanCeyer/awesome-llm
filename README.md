@@ -70,6 +70,7 @@
 | LIMA                       | 65 billion                            | 2023              |
 | MPT                        | 7 billion                             | 2023              |
 | Falcon                     | 40 billion                            | 2023              |
+| Llama 2                    | 70 billion                            | 2023              |
 
 [:arrow_up: Go to top](#top)
 
@@ -163,6 +164,7 @@
 
 ### Posts
 
+- [Llama 2 (70B)](https://about.fb.com/news/2023/07/llama-2/) - Announced by Meta / 2023
 - [Luminous (13B)](https://www.aleph-alpha.com/luminous-explore-a-model-for-world-class-semantic-representation) - Announced by Aleph Alpha / 2021
 - [Turing NLG (17B)](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/) - Announced by Microsoft / 2020
 - [Claude (52B)](https://www.anthropic.com/index/introducing-claude) - Announced by Anthropic / 2021
