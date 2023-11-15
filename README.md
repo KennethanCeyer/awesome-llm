@@ -199,6 +199,7 @@
 - [openai/evals](https://github.com/openai/evals) - ![Repo stars of openai/evals](https://img.shields.io/github/stars/openai/evals?style=social) - A curated list of reinforcement learning with human feedback resources.
 - [trlx](https://github.com/CarperAI/trlx) - ![Repo stars of promptslab/Promptify](https://img.shields.io/github/stars/CarperAI/trlx?style=social) - A repo for distributed training of language models with Reinforcement Learning via Human Feedback. (RLHF)
 - [pythia](https://github.com/EleutherAI/pythia) - ![Repo stars of EleutherAI/pythia](https://img.shields.io/github/stars/EleutherAI/pythia?style=social) - A suite of 16 LLMs all trained on public data seen in the exact same order and ranging in size from 70M to 12B parameters.
+- [Embedchain](https://github.com/embedchain/embedchain) - ![Repo stars of embedchain/embedchain](https://img.shields.io/github/stars/embedchain/embedchain.svg?style=social) - Framework to create ChatGPT like bots over your dataset.
 
 [:arrow_up: Go to top](#top)
 
