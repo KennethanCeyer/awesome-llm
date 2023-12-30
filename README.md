@@ -71,6 +71,8 @@
 | MPT                        | 7 billion                             | 2023              |
 | Falcon                     | 40 billion                            | 2023              |
 | Llama 2                    | 70 billion                            | 2023              |
+| Google Gemini              | Not yet announced                     | 2023              |
+| Microsoft Phi-2            | 2.7 billion                           | 2023              |
 
 [:arrow_up: Go to top](#top)
 
@@ -107,6 +109,10 @@
 - [GPT 3.5 (175B, text-davinci-003)](https://platform.openai.com/docs/models/gpt-3) - Announced by OpenAI / 2022
 
 [:arrow_up: Go to top](#top)
+
+#### Gemini
+
+- [Gemini](https://deepmind.google/technologies/gemini/) - Announced by Google Deepmind / 2023
 
 #### Bard
 
@@ -214,6 +220,7 @@
 
 ### Reading materials
 
+- [Phi-2: The surprising power of small language models](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
 - [StackLLaMA: A hands-on guide to train LLaMA with RLHF](https://huggingface.co/blog/stackllama)
 - [PaLM2](https://ai.google/discover/palm2)
 - [PaLM2 and Future work: Gemini model](https://blog.google/technology/ai/google-palm-2-ai-large-language-model/)
