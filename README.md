@@ -75,6 +75,7 @@
 | Microsoft Phi-2            | 2.7 billion                           | 2023              |
 | Grok-0                     | 33 billion                            | 2023              |
 | Solar                      | 10.7 billion                          | 2024              |
+| Gemma                      | 7 billion                             | 2024              |
 | Grok-1                     | 314 billion                           | 2024              |
 
 [:arrow_up: Go to top](#top)
@@ -184,6 +185,7 @@
 - [Jurassic-1](https://www.ai21.com/blog/announcing-ai21-studio-and-jurassic-1) - Announced by AI21 / 2022
 - [Jurassic-2](https://www.ai21.com/blog/introducing-j2) - Announced by AI21 / 2023
 - [Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/) - Announced by Berkeley Artificial Intelligence Research(BAIR) / 2023
+- [Gemma](https://blog.google/technology/developers/gemma-open-models/) - Gemma: Introducing new state-of-the-art open models / 2024
 - [Grok-1](https://x.ai/blog/grok-os) - Open Release of Grok-1 / 2023
 
 [:arrow_up: Go to top](#top)
@@ -196,6 +198,7 @@
 - [StableLM](https://github.com/Stability-AI/StableLM) - Maintained by Stability AI / 2023
 - [Eleuther AI Language Model](https://www.eleuther.ai/language-modeling)- Maintained by Eleuther AI / 2023
 - [Falcon LLM](https://falconllm.tii.ae/) - Maintained by Technology Innovation Institute / 2023
+- [Gemma](https://ai.google.dev/gemma) - Maintained by Google / 2024
 
 ### GitHub repositories
 
