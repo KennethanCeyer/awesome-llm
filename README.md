@@ -73,7 +73,9 @@
 | Llama 2                    | 70 billion                            | 2023              |
 | Google Gemini              | Not yet announced                     | 2023              |
 | Microsoft Phi-2            | 2.7 billion                           | 2023              |
+| Grok-0                     | 33 billion                            | 2023              |
 | Solar                      | 10.7 billion                          | 2024              |
+| Grok-1                     | 314 billion                           | 2024              |
 
 [:arrow_up: Go to top](#top)
 
@@ -182,6 +184,7 @@
 - [Jurassic-1](https://www.ai21.com/blog/announcing-ai21-studio-and-jurassic-1) - Announced by AI21 / 2022
 - [Jurassic-2](https://www.ai21.com/blog/introducing-j2) - Announced by AI21 / 2023
 - [Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/) - Announced by Berkeley Artificial Intelligence Research(BAIR) / 2023
+- [Grok-1](https://x.ai/blog/grok-os) - Open Release of Grok-1 / 2023
 
 [:arrow_up: Go to top](#top)
 
