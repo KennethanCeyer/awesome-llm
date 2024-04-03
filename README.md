@@ -74,9 +74,10 @@
 | Google Gemini              | Not yet announced                     | 2023              |
 | Microsoft Phi-2            | 2.7 billion                           | 2023              |
 | Grok-0                     | 33 billion                            | 2023              |
+| Grok-1                     | 314 billion                           | 2023              |
 | Solar                      | 10.7 billion                          | 2024              |
 | Gemma                      | 7 billion                             | 2024              |
-| Grok-1                     | 314 billion                           | 2024              |
+| Grok-1.5                   | Not yet announced                     | 2024              |
 
 [:arrow_up: Go to top](#top)
 
@@ -187,6 +188,7 @@
 - [Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/) - Announced by Berkeley Artificial Intelligence Research(BAIR) / 2023
 - [Gemma](https://blog.google/technology/developers/gemma-open-models/) - Gemma: Introducing new state-of-the-art open models / 2024
 - [Grok-1](https://x.ai/blog/grok-os) - Open Release of Grok-1 / 2023
+- [Grok-1.5](https://x.ai/blog/grok-1.5) - Announced by XAI / 2024
 
 [:arrow_up: Go to top](#top)
 
@@ -220,7 +222,7 @@
 
 - [OpenAssistant SFT 6](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor) - 30 billion LLaMa-based model made by HuggingFace for the chatting conversation.
 - [Vicuna Delta v0](https://huggingface.co/lmsys/vicuna-13b-delta-v0) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT.
-- [MPT 7B](https://huggingface.co/mosaicml/mpt-7b) - A decoder-style transformer pretrained from scratch on 1T tokens of English text and code. This model was trained by MosaicML.
+- [MPT 7B](https://huggingface.co/mosaicml/mpt-7b) - A decoder-style transformer pre-trained from scratch on 1T tokens of English text and code. This model was trained by MosaicML.
 - [Falcon 7B](https://huggingface.co/tiiuae/falcon-7b) - A 7B parameters causal decoder-only model built by TII and trained on 1,500B tokens of RefinedWeb enhanced with curated corpora.
 
 [:arrow_up: Go to top](#top)
