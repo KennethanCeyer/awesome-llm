@@ -78,6 +78,7 @@
 | Solar                      | 10.7 billion                          | 2024              |
 | Gemma                      | 7 billion                             | 2024              |
 | Grok-1.5                   | Not yet announced                     | 2024              |
+| DBRX                       | 132 billion                           | 2024              |
 
 [:arrow_up: Go to top](#top)
 
@@ -189,6 +190,7 @@
 - [Gemma](https://blog.google/technology/developers/gemma-open-models/) - Gemma: Introducing new state-of-the-art open models / 2024
 - [Grok-1](https://x.ai/blog/grok-os) - Open Release of Grok-1 / 2023
 - [Grok-1.5](https://x.ai/blog/grok-1.5) - Announced by XAI / 2024
+- [DBRX](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm) - Announced by Databricks / 2024
 
 [:arrow_up: Go to top](#top)
 
