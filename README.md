@@ -79,6 +79,9 @@
 | Gemma                      | 7 billion                             | 2024              |
 | Grok-1.5                   | Not yet announced                     | 2024              |
 | DBRX                       | 132 billion                           | 2024              |
+| Claude 3                   | Not yet announced                     | 2024              |
+| Gemma 1.1                  | 7 billion                             | 2024              |
+| Llama 3                    | 70 billion                            | 2024              |
 
 [:arrow_up: Go to top](#top)
 
