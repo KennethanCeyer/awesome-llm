@@ -107,17 +107,23 @@
 
 ### Open models
 
-- [T5 (11B)](https://huggingface.co/docs/transformers/model_doc/t5) - Announced by Google / 2020
-- [T5 FLAN (540B)](https://huggingface.co/google/flan-t5-xxl) - Announced by Google / 2022
-- [T0 (11B)](https://huggingface.co/bigscience/T0pp) - Announced by BigScience (HuggingFace) / 2021
-- [OPT-175B (175B)](https://huggingface.co/docs/transformers/model_doc/opt) - Announced by Meta / 2022
-- [UL2 (20B)](https://ai.googleblog.com/2022/10/ul2-20b-open-source-unified-language.html) - Announced by Google / 2022
-- [Bloom (176B)](https://huggingface.co/bigscience/bloom) - Announced by BigScience (HuggingFace) / 2022
-- [BERT-Large (336M)](https://huggingface.co/bert-large-uncased) - Announced by Google / 2018
-- [GPT-NeoX 2.0 (20B)](https://github.com/EleutherAI/gpt-neox) - Announced by EleutherAI / 2023
+- [DeepSeek-R1 (671B)](https://github.com/deepseek-ai/DeepSeek-R1) - Announced by DeepSeek / 2025
+- [LLaMA 3 (8B, 70B)](https://huggingface.co/meta-llama/Llama-3) - Announced by Meta / 2024
+- [Gemma 2 (2B, 9B, 27B)](https://ai.google.dev/gemma) - Announced by Google / 2024
+- [DeepSeek-V2 (238B)](https://huggingface.co/deepseek-ai/deepseek-v2) - Announced by DeepSeek / 2024
+- [Mistral 7B](https://huggingface.co/mistralai/Mistral-7B) - Announced by Mistral AI / 2023
+- [Solar (10.7B)](https://huggingface.co/upstage/solar-10.7B) - Announced by Upstage / 2023
+- [DBRX (132B)](https://huggingface.co/databricks/dbrx) - Announced by Databricks / 2024
+- [Falcon (7B, 40B, 180B)](https://huggingface.co/tiiuae/falcon-7b) - Announced by Technology Innovation Institute / 2023
+- [MPT (7B, 30B)](https://huggingface.co/mosaicml/mpt-7b) - Announced by MosaicML / 2023
+- [Dolly (6B, 12B)](https://huggingface.co/databricks/dolly-v2-12b) - Announced by Databricks / 2023
+- [Phi-2 (2.7B)](https://huggingface.co/microsoft/Phi-2) - Announced by Microsoft / 2023
+- [GPT-NEOX 20B](https://huggingface.co/EleutherAI/gpt-neox-20b) - Announced by EleutherAI / 2023
 - [GPT-J (6B)](https://huggingface.co/EleutherAI/gpt-j-6B) - Announced by EleutherAI / 2021
-- [Macaw (11B)](https://macaw.apps.allenai.org/) - Announced by AI2 / 2021
 - [Stanford Alpaca (7B)](https://crfm.stanford.edu/2023/03/13/alpaca.html) - Announced by Stanford University / 2023
+- [OpenAssistant (30B)](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor) - Announced by LAION / 2023
+
+[:arrow_up: Go to top](#top)
 
 [:arrow_up: Go to top](#top)
 
