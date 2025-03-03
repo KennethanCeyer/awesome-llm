@@ -29,67 +29,80 @@
 
 ### Overview
 
-| Name                       | Parameter size                        | Announcement date |
-|----------------------------|---------------------------------------|-------------------|
-| BERT-Large (336M)          | 336 million                           | 2018              |
-| T5 (11B)                   | 11 billion                            | 2020              |
-| Gopher (280B)              | 280 billion                           | 2021              |
-| GPT-J (6B)                 | 6 billion                             | 2021              |
-| LaMDA (137B)               | 137 billion                           | 2021              |
-| Megatron-Turing NLG (530B) | 530 billion                           | 2021              |
-| T0 (11B)                   | 11 billion                            | 2021              |
-| Macaw (11B)                | 11 billion                            | 2021              |
-| GLaM (1.2T)                | 1.2 trillion                          | 2021              |
-| T5 FLAN (540B)             | 540 billion                           | 2022              |
-| OPT-175B (175B)            | 175 billion                           | 2022              |
-| ChatGPT (175B)             | 175 billion                           | 2022              |
-| GPT 3.5 (175B)             | 175 billion                           | 2022              |
-| AlexaTM (20B)              | 20 billion                            | 2022              |
-| Bloom (176B)               | 176 billion                           | 2022              |
-| Bard                       | Undisclosed                           | 2023              |
-| GPT 4                      | Undisclosed                           | 2023              |
-| AlphaCode (41.4B)          | 41.4 billion                          | 2022              |
-| Chinchilla (70B)           | 70 billion                            | 2022              |
-| Sparrow (70B)              | 70 billion                            | 2022              |
-| PaLM (540B)                | 540 billion                           | 2022              |
-| NLLB (54.5B)               | 54.5 billion                          | 2022              |
-| Alexa TM (20B)             | 20 billion                            | 2022              |
-| Galactica (120B)           | 120 billion                           | 2022              |
-| UL2 (20B)                  | 20 billion                            | 2022              |
-| Jurassic-1 (178B)          | 178 billion                           | 2022              |
-| LLaMA (65B)                | 65 billion                            | 2023              |
-| Stanford Alpaca (7B)       | 7 billion                             | 2023              |
-| GPT-NeoX 2.0 (20B)         | 20 billion                            | 2023              |
-| BloombergGPT               | 50 billion                            | 2023              |
-| Dolly                      | 6 billion                             | 2023              |
-| Jurassic-2                 | Undisclosed                           | 2023              |
-| OpenAssistant LLaMa        | 30 billion                            | 2023              |
-| Koala                      | 13 billion                            | 2023              |
-| Vicuna                     | 13 billion                            | 2023              |
-| PaLM2                      | Undisclosed, Smaller than PaLM1       | 2023              |
-| LIMA                       | 65 billion                            | 2023              |
-| MPT                        | 7 billion                             | 2023              |
-| Falcon                     | 40 billion                            | 2023              |
-| Llama 2                    | 70 billion                            | 2023              |
-| Google Gemini              | Undisclosed                           | 2023              |
-| Microsoft Phi-2            | 2.7 billion                           | 2023              |
-| Grok-0                     | 33 billion                            | 2023              |
-| Grok-1                     | 314 billion                           | 2023              |
-| Solar                      | 10.7 billion                          | 2024              |
-| Gemma                      | 7 billion                             | 2024              |
-| Grok-1.5                   | Undisclosed                           | 2024              |
-| DBRX                       | 132 billion                           | 2024              |
-| Claude 3                   | Undisclosed                           | 2024              |
-| Gemma 1.1                  | 7 billion                             | 2024              |
-| Llama 3                    | 70 billion                            | 2024              |
-| Gemma 2                    | 27 billion                            | 2024              |
-| DeepSeek VL                | 7 billion                             | 2024              |
-| DeepSeek VL2               | 4.5 billion                           | 2024              |
-| DeepSeek V2                | 238 billion                           | 2024              |
-| DeepSeek V3                | 671 billion                           | 2025              |
-| Grok-3                     | Undisclosed                           | 2025              |
-| Qwen 2.5‑Max               | Undisclosed                           | 2025              |
-| DeepSeek R1                | 671 billion                           | 2025              |
+| Name                                      | Parameter Size                     | Announcement Date   | Provider                                      |
+|-------------------------------------------|------------------------------------|---------------------|-----------------------------------------------|
+| Grok‑3                                    | Undisclosed                        | Feburary 2025       | xAI                                           |
+| DeepSeek R1                               | 671 billion                        | January 2025        | DeepSeek                                      |
+| DeepSeek V3                               | 671 billion                        | December 2024       | DeepSeek                                      |
+| Qwen 2.5 Max                              | Undisclosed                        | June 2024           | Alibaba Cloud                                 |
+| Gemma 2                                   | 27 billion                         | June 2024           | Google                                        |
+| DeepSeek VL2                              | 4.5 billion                        | June 2024           | DeepSeek                                      |
+| Qwen 1.5‑MoE‑A2.7B                        | 14.9B (2.7B active)                | May 2024            | Alibaba Cloud                                 |
+| Yi‑1.5‑6B‑Chat                            | 6 billion                          | May 2024            | 01.AI                                         |
+| Yi‑1.5‑9B                                 | 9 billion                          | May 2024            | 01.AI                                         |
+| DeepSeek V2                               | 238 billion (21B active)           | May 2024            | DeepSeek                                      |
+| DeepSeek VL                               | 7 billion                          | May 2024            | DeepSeek                                      |
+| Microsoft Phi‑2                           | 2.7 billion                        | April 2024          | Microsoft                                     |
+| Llama 3 (8B, 70B)                         | 8B, 70B                            | April 2024          | Meta                                          |
+| Gemma 1.1                                 | 7 billion                          | April 2024          | Google                                        |
+| Claude 3 (Opus, Sonnet, Haiku)            | Undisclosed                        | March 2024          | Anthropic                                     |
+| DBRX (132B total, 36B active)             | 132 billion (36B active)           | March 2024          | Databricks                                    |
+| Grok‑1                                    | 314 billion                        | March 2024          | xAI                                           |
+| Gemma (2B, 7B)                            | 2B, 7B                             | February 2024       | Google                                        |
+| Qwen 1.5 (0.5B, 1.8B, 4B, 7B, 14B, 72B)   | 0.5B, 1.8B, 4B, 7B, 14B, 72B       | February 2024       | Alibaba Cloud                                 |
+| Solar                                     | 10.7 billion                       | December 2023       | Upstage                                       |
+| Microsoft Phi‑2                           | 2.7 billion                        | December 2023       | Microsoft                                     |
+| Google Gemini (Pro, Ultra, Nano)          | Undisclosed                        | December 2023       | Google                                        |
+| Mixtral 8x7B                              | 46.7 billion (active)              | December 2023       | Mistral AI                                    |
+| Grok‑0                                    | 33 billion                         | November 2023       | xAI                                           |
+| Yi‑34B‑200K                               | 34 billion                         | November 2023       | 01.AI                                         |
+| Qwen‑VL / Qwen‑VL‑Chat                    | Undisclosed                        | Oct/Nov 2023        | Alibaba Cloud                                 |
+| Zephyr‑7b‑beta                            | 7 billion                          | October 2023        | HuggingFace H4                                |
+| Mistral 7B                                | 7.3 billion                        | September 2023      | Mistral AI                                    |
+| Qwen‑14B‑Chat                             | 14 billion (est.)                  | September 2023      | Alibaba Cloud                                 |
+| Qwen‑14B                                  | 14 billion (est.)                  | September 2023      | Alibaba Cloud                                 |
+| Qwen‑7B‑Chat                              | 7 billion (est.)                   | August 2023         | Alibaba Cloud                                 |
+| Qwen‑7B                                   | 7 billion (est.)                   | August 2023         | Alibaba Cloud                                 |
+| Llama 2 (7B, 13B, 70B)                    | 7B, 13B, 70B                       | July 2023           | Meta                                          |
+| XGen (7B)                                 | 7 billion                          | July 2023           | Salesforce                                    |
+| Falcon (7B, 40B, 180B)                    | 7B, 40B, 180B                      | June/Sept 2023      | Technology Innovation Institute (UAE)         |
+| MPT (7B, 30B)                             | 7B, 30B                            | May/June 2023       | MosaicML                                      |
+| LIMA (65B)                                | 65 billion                         | May 2023            | Meta AI                                       |
+| PaLM 2                                    | Undisclosed                        | May 2023            | Google                                        |
+| Vicuna (7B, 13B, 33B)                     | 7B, 13B, 33B                       | March 2023          | LMSYS ORG                                     |
+| Koala (13B)                               | 13 billion                         | April 2023          | UC Berkeley                                   |
+| OpenAssistant (LLaMA 30B)                 | 30 billion                         | April 2023          | LAION                                         |
+| Jurassic‑2                                | Undisclosed                        | April 2023          | AI21 Labs                                     |
+| Dolly (Databricks) (6B and 12B)           | 6 & 12 billion                     | March/April 2023    | Databricks                                    |
+| BloombergGPT                              | 50 billion                         | March 2023          | Bloomberg                                     |
+| GPT‑4                                     | Undisclosed                        | March 2023          | OpenAI                                        |
+| Bard                                      | Undisclosed                        | March 2023          | Google                                        |
+| Stanford Alpaca (7B)                      | 7 billion                          | March 2023          | Stanford University                           |
+| LLaMA (7B, 13B, 33B, 65B)                 | 7B, 13B, 33B, 65B                  | February 2023       | Meta                                          |
+| ChatGPT                                   | Undisclosed                        | November 2022       | OpenAI                                        |
+| GPT‑3.5 (series)                          | 175 billion (for largest models)   | November 2022       | OpenAI                                        |
+| Jurassic‑1 (178B)                         | 178 billion                        | November 2022       | AI21                                          |
+| Galactica (120B)                          | 120 billion                        | November 2022       | Meta                                          |
+| Sparrow (70B)                             | 70 billion                         | September 2022      | DeepMind                                      |
+| NLLB (54.5B)                              | 54.5 billion                       | July 2022           | Meta                                          |
+| BLOOM (176B)                              | 176 billion                        | July 2022           | BigScience (Hugging Face)                     |
+| AlexaTM (20B)                             | 20 billion                         | August 2022         | Amazon                                        |
+| UL2 (20B)                                 | 20 billion                         | May 2022            | Google                                        |
+| OPT‑175B                                  | 175 billion                        | May 2022            | Meta (Facebook)                               |
+| PaLM (540B)                               | 540 billion                        | April 2022          | Google                                        |
+| AlphaCode (41.4B)                         | 41.4 billion                       | February 2022       | DeepMind                                      |
+| Chinchilla (70B)                          | 70 billion                         | March 2022          | DeepMind                                      |
+| GLaM (1.2T)                               | 1.2 trillion                       | December 2021       | Google                                        |
+| Macaw (11B)                               | 11 billion                         | October 2021        | Allen Institute for AI                        |
+| T0 (11B)                                  | 11 billion                         | October 2021        | Hugging Face                                  |
+| Megatron‑Turing NLG (530B)                | 530 billion                        | January 2022        | Microsoft & NVIDIA                            |
+| LaMDA (137B)                              | 137 billion                        | January 2022        | Google                                        |
+| Gopher (280B)                             | 280 billion                        | December 2021       | DeepMind                                      |
+| GPT‑J (6B)                                | 6 billion                          | June 2021           | EleutherAI                                    |
+| GPT‑NeoX 2.0 (20B)                        | 20 billion                         | February 2022       | EleutherAI                                    |
+| T5 (11B)                                  | 11 billion                         | October 2019        | Google                                        |
+| BERT‑Large                                | 336 million                        | October 2018        | Google                                        |
+
 
 [:arrow_up: Go to top](#top)
 
