@@ -46,8 +46,8 @@
 | GPT 3.5 (175B)             | 175 billion                           | 2022              |
 | AlexaTM (20B)              | 20 billion                            | 2022              |
 | Bloom (176B)               | 176 billion                           | 2022              |
-| Bard                       | Not yet announced                     | 2023              |
-| GPT 4                      | Not yet announced                     | 2023              |
+| Bard                       | Undisclosed                           | 2023              |
+| GPT 4                      | Undisclosed                           | 2023              |
 | AlphaCode (41.4B)          | 41.4 billion                          | 2022              |
 | Chinchilla (70B)           | 70 billion                            | 2022              |
 | Sparrow (70B)              | 70 billion                            | 2022              |
@@ -62,26 +62,34 @@
 | GPT-NeoX 2.0 (20B)         | 20 billion                            | 2023              |
 | BloombergGPT               | 50 billion                            | 2023              |
 | Dolly                      | 6 billion                             | 2023              |
-| Jurassic-2                 | Not yet announced                     | 2023              |
+| Jurassic-2                 | Undisclosed                           | 2023              |
 | OpenAssistant LLaMa        | 30 billion                            | 2023              |
 | Koala                      | 13 billion                            | 2023              |
 | Vicuna                     | 13 billion                            | 2023              |
-| PaLM2                      | Not yet announced, Smaller than PaLM1 | 2023              |
+| PaLM2                      | Undisclosed, Smaller than PaLM1       | 2023              |
 | LIMA                       | 65 billion                            | 2023              |
 | MPT                        | 7 billion                             | 2023              |
 | Falcon                     | 40 billion                            | 2023              |
 | Llama 2                    | 70 billion                            | 2023              |
-| Google Gemini              | Not yet announced                     | 2023              |
+| Google Gemini              | Undisclosed                           | 2023              |
 | Microsoft Phi-2            | 2.7 billion                           | 2023              |
 | Grok-0                     | 33 billion                            | 2023              |
 | Grok-1                     | 314 billion                           | 2023              |
 | Solar                      | 10.7 billion                          | 2024              |
 | Gemma                      | 7 billion                             | 2024              |
-| Grok-1.5                   | Not yet announced                     | 2024              |
+| Grok-1.5                   | Undisclosed                           | 2024              |
 | DBRX                       | 132 billion                           | 2024              |
-| Claude 3                   | Not yet announced                     | 2024              |
+| Claude 3                   | Undisclosed                           | 2024              |
 | Gemma 1.1                  | 7 billion                             | 2024              |
 | Llama 3                    | 70 billion                            | 2024              |
+| Gemma 2                    | 27 billion                            | 2024              |
+| DeepSeek VL                | 7 billion                             | 2024              |
+| DeepSeek VL2               | 4.5 billion                           | 2024              |
+| DeepSeek V2                | 238 billion                           | 2024              |
+| DeepSeek V3                | 671 billion                           | 2025              |
+| Grok-3                     | Undisclosed                           | 2025              |
+| Qwen 2.5‑Max               | Undisclosed                           | 2025              |
+| DeepSeek R1                | 671 billion                           | 2025              |
 
 [:arrow_up: Go to top](#top)
 
@@ -154,7 +162,28 @@
 
 ## Benchmarks
 
-- [BIG-bench](https://github.com/google/BIG-bench)
+Below are key websites and references used for evaluating and comparing large language models (LLMs) and their benchmarks:
+
+- **Chatbot Arena**  
+  [https://chatbotarena.com/](https://chatbotarena.com/)  
+  A platform for head-to-head evaluations of AI chatbots.
+
+- **LLM Leaderboard 2025 – Verified AI Rankings**  
+  [https://llm-stats.com/](https://llm-stats.com/)  
+  Comparative rankings of leading AI models based on quality, price, and performance.
+
+- **Artificial Analysis LLM Leaderboards**  
+  [https://artificialanalysis.ai/leaderboards/models](https://artificialanalysis.ai/leaderboards/models)  
+  Detailed comparisons across multiple metrics (output speed, latency, context window, etc.).
+
+- **MMLU – Wikipedia**  
+  [https://en.wikipedia.org/wiki/MMLU](https://en.wikipedia.org/wiki/MMLU)  
+  Information about the Measuring Massive Multitask Language Understanding benchmark.
+
+- **Language Model Benchmark – Wikipedia**  
+  [https://en.wikipedia.org/wiki/Language_model_benchmark](https://en.wikipedia.org/wiki/Language_model_benchmark)  
+  Overview of various benchmarks used for evaluating LLM performance.
+
 
 [:arrow_up: Go to top](#top)
 
@@ -176,6 +205,7 @@
 - [Galactica (120B)](https://arxiv.org/abs/2211.09085) - Announced by Meta / 2022
 - [PaLM2 Tech Report](https://ai.google/static/documents/palm2techreport.pdf) - Announced by Google / 2023
 - [LIMA](https://arxiv.org/abs/2305.11206) - Announced by Meta / 2023
+- [DeekSeek-R1 (631B)](https://arxiv.org/pdf/2501.12948) - Announced by DeepSeek-AI / 2025
 
 ### Posts
 
@@ -194,6 +224,7 @@
 - [Grok-1](https://x.ai/blog/grok-os) - Open Release of Grok-1 / 2023
 - [Grok-1.5](https://x.ai/blog/grok-1.5) - Announced by XAI / 2024
 - [DBRX](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm) - Announced by Databricks / 2024
+- [Grok-2](https://x.ai/blog/grok-3) - Announced by XAI / 2025
 
 [:arrow_up: Go to top](#top)
 
