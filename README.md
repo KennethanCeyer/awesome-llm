@@ -31,6 +31,7 @@
 
 | Name                                      | Parameter Size                     | Announcement Date   | Provider                                      |
 |-------------------------------------------|------------------------------------|---------------------|-----------------------------------------------|
+| Gemma-3                                   | 1B, 4B, 12B, 27B                   | March 2025          | Google                                        |
 | GPT-4.5                                   | Undisclosed                        | Feburary 2025       | OpenAI                                        |
 | Grok‑3                                    | Undisclosed                        | Feburary 2025       | xAI                                           |
 | Gemini-2                                  | Undisclosed                        | Feburary 2025       | Google                                        |
@@ -285,6 +286,7 @@ Below are key websites and references used for evaluating and comparing large la
 
 ### Reading materials
 
+- [Introducing Gemma 3: The most capable model you can run on a single GPU or TPU](https://blog.google/technology/developers/gemma-3/)
 - [Phi-2: The surprising power of small language models](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
 - [StackLLaMA: A hands-on guide to train LLaMA with RLHF](https://huggingface.co/blog/stackllama)
 - [PaLM2](https://ai.google/discover/palm2)
