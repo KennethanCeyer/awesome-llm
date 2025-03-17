@@ -108,6 +108,7 @@
 
 ### Open models
 
+- [Gemma 3 (1B, 4B, 12B, 27B)](https://huggingface.co/google/gemma-3-1b-it) - Announced by DeepSeek / 2025
 - [DeepSeek-R1 (671B)](https://github.com/deepseek-ai/DeepSeek-R1) - Announced by DeepSeek / 2025
 - [LLaMA 3 (8B, 70B)](https://huggingface.co/meta-llama/Llama-3) - Announced by Meta / 2024
 - [Gemma 2 (2B, 9B, 27B)](https://ai.google.dev/gemma) - Announced by Google / 2024
