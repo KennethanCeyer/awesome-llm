@@ -297,7 +297,7 @@ Below are key websites and references used for evaluating and comparing large la
 
 ## Contributing
 
-We welcome contributions to the Awesome LLMOps list! If you'd like to suggest an addition or make a correction, please follow these guidelines:
+We welcome contributions to the [Awesome LLM](https://github.com/KennethanCeyer/awesome-llm/) list! If you'd like to suggest an addition or make a correction, please follow these guidelines:
 
 1. Fork the repository and create a new branch for your contribution.
 2. Make your changes to the README.md file.
