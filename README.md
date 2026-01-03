@@ -188,9 +188,13 @@ Below are key websites and references used for evaluating and comparing large la
   [https://chatbotarena.com/](https://chatbotarena.com/)  
   A platform for head-to-head evaluations of AI chatbots.
 
-- **LLM Leaderboard 2025 – Verified AI Rankings**  
-  [https://llm-stats.com/](https://llm-stats.com/)  
+- **LLM Leaderboard 2025 – Verified AI Rankings**
+  [https://llm-stats.com/](https://llm-stats.com/)
   Comparative rankings of leading AI models based on quality, price, and performance.
+
+- **Price Per Token – LLM Pricing Comparison**
+  [https://pricepertoken.com/](https://pricepertoken.com/)
+  Compare LLM API pricing across 200+ models with token counters, cost calculators, and benchmark data.
 
 - **Artificial Analysis LLM Leaderboards**  
   [https://artificialanalysis.ai/leaderboards/models](https://artificialanalysis.ai/leaderboards/models)  
