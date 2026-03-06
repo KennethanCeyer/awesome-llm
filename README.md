@@ -291,6 +291,7 @@ Below are key websites and references used for evaluating and comparing large la
 - [Phi-2: The surprising power of small language models](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
 - [StackLLaMA: A hands-on guide to train LLaMA with RLHF](https://huggingface.co/blog/stackllama)
 - [PaLM2](https://ai.google/discover/palm2)
+- [Learn Agentic Patterns](https://learnagenticpatterns.com) - Free interactive curriculum covering 21 agentic AI design patterns with code examples and architecture diagrams
 - [PaLM2 and Future work: Gemini model](https://blog.google/technology/ai/google-palm-2-ai-large-language-model/)
 
 [:arrow_up: Go to top](#top)
