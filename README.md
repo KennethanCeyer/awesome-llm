@@ -211,6 +211,8 @@ Below are key websites and references used for evaluating and comparing large la
 
 ### Papers
 
+- [**OneComp: One-Line Revolution for Generative AI Model Compression**](https://arxiv.org/abs/2603.28845) — Fujitsu Research's unified PTQ pipeline for LLMs ([Code](https://github.com/FujitsuResearch/OneCompression)).
+
 - [Megatron-Turing NLG (530B)](https://arxiv.org/abs/2201.11990) - Announced by NVIDIA and Microsoft / 2021
 - [LaMDA (137B)](https://arxiv.org/abs/2201.08239) - Announced by Google / 2021
 - [GLaM (1.2T)](https://arxiv.org/pdf/2112.06905.pdf) - Announced by Google / 2021
