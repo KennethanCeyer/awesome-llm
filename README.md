@@ -133,6 +133,7 @@
 
 - [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) - Announced by Microsoft / 2023
 - [LMOps](https://github.com/microsoft/lmops) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities.
+- [Science AI Journal](https://scienceaijournal.com) - Multi-agent LLM application for academic peer review; 8 specialist agents calibrated at inference time via FTS5 retrieval against 23,000 real peer reviews. Announced 2026.
 
 [:arrow_up: Go to top](#top)
 
