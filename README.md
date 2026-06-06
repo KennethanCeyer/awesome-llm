@@ -187,7 +187,11 @@ Below are key websites and references used for evaluating and comparing large la
 - **Chatbot Arena**  
   [https://chatbotarena.com/](https://chatbotarena.com/)  
   A platform for head-to-head evaluations of AI chatbots.
-
+  
+- **APICalculators**
+  [https://apicalculators.com](https://apicalculators.com)
+  Real-time cost calculators for LLM tokens, vector databases, serverless, auth providers and more. 12 tools, runs in browser.
+  
 - **LLM Leaderboard 2025 – Verified AI Rankings**  
   [https://llm-stats.com/](https://llm-stats.com/)  
   Comparative rankings of leading AI models based on quality, price, and performance.
