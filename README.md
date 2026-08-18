@@ -196,6 +196,10 @@ Below are key websites and references used for evaluating and comparing large la
   [https://artificialanalysis.ai/leaderboards/models](https://artificialanalysis.ai/leaderboards/models)  
   Detailed comparisons across multiple metrics (output speed, latency, context window, etc.).
 
+- **ModelCap – Live AI Model Rankings**  
+  [https://modelcap.ai/](https://modelcap.ai/)  
+  Continuously refreshed rankings from named public benchmarks, arena ratings and provider prices; each score carries an evidence tier and interval, with per-benchmark leaderboards and pairwise comparisons.
+
 - **MMLU – Wikipedia**  
   [https://en.wikipedia.org/wiki/MMLU](https://en.wikipedia.org/wiki/MMLU)  
   Information about the Measuring Massive Multitask Language Understanding benchmark.
