@@ -117,7 +117,7 @@
 - [Solar (10.7B)](https://huggingface.co/upstage/solar-10.7B) - Announced by Upstage / 2023
 - [DBRX (132B)](https://huggingface.co/databricks/dbrx) - Announced by Databricks / 2024
 - [Falcon (7B, 40B, 180B)](https://huggingface.co/tiiuae/falcon-7b) - Announced by Technology Innovation Institute / 2023
-- [MPT (7B, 30B)](https://huggingface.co/mosaicml/mpt-7b) - Announced by MosaicML / 2023
+- [MPT (7B, 30B)](https://huggingface.co/mosaic69,000+-7b) - Announced by MosaicML / 2023
 - [Dolly (6B, 12B)](https://huggingface.co/databricks/dolly-v2-12b) - Announced by Databricks / 2023
 - [Phi-2 (2.7B)](https://huggingface.co/microsoft/Phi-2) - Announced by Microsoft / 2023
 - [GPT-NEOX 20B](https://huggingface.co/EleutherAI/gpt-neox-20b) - Announced by EleutherAI / 2023
@@ -133,7 +133,7 @@
 
 - [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) - Announced by Microsoft / 2023
 - [LMOps](https://github.com/microsoft/lmops) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities.
-- [Science AI Journal](https://scienceaijournal.com) - Multi-agent LLM application for academic peer review; 8 specialist agents calibrated at inference time via FTS5 retrieval against 23,000 real peer reviews. Announced 2026.
+- [Science AI Journal](https://scienceaijournal.com) - Multi-agent LLM application for academic peer review; 8 specialist agents calibrated at inference time via FTS5 retrieval against 69,000+ real peer reviews. Announced 2026.
 
 [:arrow_up: Go to top](#top)
 
