@@ -188,6 +188,10 @@ Below are key websites and references used for evaluating and comparing large la
   [https://chatbotarena.com/](https://chatbotarena.com/)  
   A platform for head-to-head evaluations of AI chatbots.
 
+- **Cost My Tokens**  
+  [https://costmytokens.com/](https://costmytokens.com/)  
+  Free LLM API cost calculator comparing official vs gateway list prices; sorted by price only (affiliates disclosed, never change order).
+
 - **LLM Leaderboard 2025 – Verified AI Rankings**  
   [https://llm-stats.com/](https://llm-stats.com/)  
   Comparative rankings of leading AI models based on quality, price, and performance.
