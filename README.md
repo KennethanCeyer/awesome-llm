@@ -184,6 +184,8 @@
 
 Below are key websites and references used for evaluating and comparing large language models (LLMs) and their benchmarks:
 
+- [AIHOT Model Leaderboard](https://aihot.news/leaderboard) - Chinese-language model rankings and category comparisons based on published third-party benchmark results.
+
 - **Chatbot Arena**  
   [https://chatbotarena.com/](https://chatbotarena.com/)  
   A platform for head-to-head evaluations of AI chatbots.
